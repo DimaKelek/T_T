@@ -107,3 +107,10 @@ console.log('### getFoodPrice 1', getFoodPrice('pizza'))
 console.log('### getFoodPrice 2', getFoodPrice('Apple'))
 console.log('### getFoodPrice 3', getFoodPrice('Lime'))
 console.log('### getFoodPrice 4', getFoodPrice('Zalupa psa'))
+
+// ДВ
+// 1) Написать функцию checkAge, которая принимает на вход возраст пользователя и
+//    выводит в консоль сообщения о доступности по возрасту (к примеру для 4 разных возрастных групп)
+//    Пример: параметр - 16, выводит - "Доступ закрыт, вы слишком молоды"
+// 2) Написать функцию getDayMessage, которая принимает число и возвращает на основании этого вызывает лог
+//    который говорит нам о том какой это день недели
